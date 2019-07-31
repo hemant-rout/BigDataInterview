@@ -1,1 +1,18 @@
-
+Spark
+1.What all optimization you have done on your current project
+2.How "write fuction" will work internally. 
+3.How the diffrent save mode will work
+4.SCD1 and SCD2 logic in spark
+5.Rank logic in Saprk. How it is differ rom ruw_num. Internally how it works
+6.What are the chalenges you have faced during coding
+7.Common error faced in spark
+8.How executor run and how it is decided how many executore will be required?
+9.How one task knows that any specific block is already read
+10.How to connect DB and Cassandra from Spark
+11.What is executor memory and core? how these are defind?what is the default?
+12.In case of RDD or DF how many is it decided to parition the input data
+13.How to read nested JSON
+14.How to read XML file in spark and how it is different from reading through HIVE
+15.How you are verifying/tracking your log? 
+16.Did you faced heartbeat issue when developing Spark jobs?
+17.Spark is totally based on memory? what will be your approach to overcome memory issue? 
